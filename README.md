@@ -28,14 +28,6 @@ No joystick, no touch — just the iPad in front of you and real-time skeleton t
 | **✦ Fairy** | Damage scales with swing speed — the faster, the harder. | None. Pure offense. |
 | **✺ Wizard** *(soon)* | Hand gestures drawn in mid-air — spells recognized from the movement pattern. | TBD. |
 
-## Demo
-
-<!-- replace with your video link -->
-[▶ Watch gameplay](docs/demo.mp4)
-
-> GitHub doesn't auto-embed local `.mp4` files in READMEs. Two options:
-> 1. Upload the video to a GitHub release or to an issue, copy the resulting CDN URL, replace the link above.
-> 2. Upload to YouTube/Vimeo and embed a thumbnail link.
 
 ## How it works
 
